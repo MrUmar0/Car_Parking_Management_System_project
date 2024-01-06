@@ -1,4 +1,4 @@
-# Car_Parking_Management_System_project
+# Car Parking Management System project
 Ddescription : 
 Your car parking management system is your first project, which is based on the intermediate level of the C++ programming language. In this project, I have added the capability for customers to book parking spots themselves. When a customer makes a booking, they will need to provide their bank account number and PIN code for payment. Once the payment is completed, the parking spot will be reserved for them.
 
